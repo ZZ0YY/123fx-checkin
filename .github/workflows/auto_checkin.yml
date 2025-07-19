@@ -2,7 +2,7 @@ name: Pan1.me Auto Check-in
 
 on:
   schedule:
-    - cron: '30 5 * * *'
+    - cron: '35 5 * * *'
   workflow_dispatch:
 
 jobs:
